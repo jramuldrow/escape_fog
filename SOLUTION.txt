@@ -1,0 +1,9 @@
+#Soultion to Escape Fog Game
+#You must find the keys and passcode to get to the shuttle
+#You are first in a laboratoty, you must leave lab and go into the hallway
+#You should go into the office and get the keys
+#avoid going in to stairway, you will loose Game
+#You should go into the Director Office and get the passcode
+#After you get the keys and passcode, go into the locker room
+#The keys opens the locker room door and the passcode opens the elevator
+#that will lead take you to the space shuttle and win the game
